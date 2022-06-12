@@ -1,0 +1,126 @@
+/*about*/
+body{
+    background-color: #000000;
+    color: white;
+  font-family: Arial, Helvetica, sans-serif;
+    margin:0px
+    box sizing: borderbox;
+}
+
+.navbar {
+float:right;
+background-color: #f3ca20;
+color: #f3ca20;
+font-size:17px;
+border: 2px solid #f3ca20
+padding: 10px;
+}
+
+
+img{
+width: 50%;
+height: 50%;
+border: 1px #f3ca20;
+border-radius:50%;
+display: flex;
+float: right;
+}
+
+p{
+box sizing: border box;
+widthL 30%;
+}
+
+.button{
+font-size: 30px;
+button-align:center;
+padding: 10px;
+margin: 10px;
+background-color: #292424;
+color: #f3ca20;
+border: 5px dotted  #f3ca20;
+}
+
+
+
+/*Contact css*/
+body{
+    background-color:black;
+    color:#f3ca20
+}
+
+.div.container {
+    width:98%; 
+    margin:1%;
+    margin-top: 10px;
+}
+#table1{
+    margin-top:20px;
+    background-color: #f3ca20;
+    color:black;
+    border: 8px;px; border-style: double;
+    border-color:black;
+    text-align:center; 
+    margin-left:auto; 
+    margin-right:auto; 
+    width:fit-content;
+     padding: 10px
+    }
+
+    tr,td {text-align:left;}
+
+   h1{
+    text-align: left;
+}
+
+header{
+    text-align: left;
+    
+}
+
+.table{
+    text-align: left;
+    border:5px;
+    padding:10px;
+}
+
+/*Login*/
+body{ 
+    background-color: black;
+        width: 50%;
+        color:white;
+}
+
+table{
+    border: 5px; border-color: black;
+    color: black;
+    background-color: #f3ca20;
+}
+
+
+/*registration*/
+
+body{background-color: black;
+    color:#f3ca20;
+    
+    }
+    
+    .td{
+        border:5px;
+        background-color:white;
+        border-color:white;
+    }
+    
+    #table{
+        margin-top:20px;
+        background-color: #f3ca20;
+        color:black;
+        border: 5px;5px; border-style: dotted;
+        border-color:black;
+        text-align:center; 
+        margin-left:auto; 
+        margin-right:auto; 
+        width:fit-content;
+         padding: 10px
+        }
+        tr,td {text-align:left;}
